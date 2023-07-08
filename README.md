@@ -7,6 +7,8 @@ It supports IMT transformations, maintaining weight synchronization and adaptati
 
 It offers powerful object detection extension features, including prediction of multiple secondary attributes of a target, 6DPose (three-dimensional position and posture target detection), and recognition of inclined targets in remote sensing.
 
+Based on our IMT engine, we developed a set of machine game-playing algorithm models, continuously refining the model structure without needing retraining. In the 2022 ICGA competition, we won gold and silver medals in two events, and once again emerged as champions in the highest-level domestic machine game-playing competition, the "World Competitive Cup". 
+
 It is convenient for embedded porting. Based on the IMT framework, you can write the model into the embedded system during the training process, facilitating the implementation of AI applications on various small-scale devices. This is something current mainstream deep learning frameworks like mmd cannot achieve.
 
 Rotated Object Detection Demos
