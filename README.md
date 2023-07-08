@@ -9,6 +9,8 @@ It offers powerful object detection extension features, including prediction of 
 
 It is convenient for embedded porting. Based on the IMT framework, you can write the model into the embedded system during the training process, facilitating the implementation of AI applications on various small-scale devices. This is something current mainstream deep learning frameworks like mmd cannot achieve.
 
+Based on our IMT engine, we developed a set of machine game-playing algorithm models, continuously refining the model structure without needing retraining. In the 2022 ICGA competition, we won gold and silver medals in two events, and once again emerged as champions in the highest-level domestic machine game-playing competition, the "World Competitive Cup". 
+
 Rotated Object Detection Demos
 ![Image description](demos/dota1.5/1706_P1090_1_0.jpg)
 ![Image description](demos/dota1.5/31_P0007_62_0.jpg)
