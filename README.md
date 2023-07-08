@@ -31,6 +31,7 @@ Turbo 6DPose Object Detection Demos
 ![Image description](demos/6dpose/93[1074]-615.jpg)
 ![Image description](demos/6dpose/131[660]-242.jpg)
 ![Image description](demos/6dpose/163[1470]-972.jpg)
+The model can detect the three-dimensional bounding box of the object, where the red line indicates the object's own X-axis pointing to the right, the green line indicates the object's own Y-axis pointing forward, and the blue line indicates the object's own Z-axis pointing upward.
 Note: The common 6DPose can only estimate the pose with one degree of freedom rotation - the heading angle, and it requires the exterior orientation parameters of the camera. However, our IMT engine's Turbo 6DPose can genuinely estimate the target's three degrees of freedom rotational pose relative to the camera, without needing the camera's exterior orientation parameters. Therefore, it can be widely applied.
 
 Prize by IMT
