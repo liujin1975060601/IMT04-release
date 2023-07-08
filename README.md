@@ -10,6 +10,12 @@ It offers powerful object detection extension features, including prediction of 
 It is convenient for embedded porting. Based on the IMT framework, you can write the model into the embedded system during the training process, facilitating the implementation of AI applications on various small-scale devices. This is something current mainstream deep learning frameworks like mmd cannot achieve.
 
 Rotated Object Detection Demos
-![Image description](demos/dota1.5/1573_P1023_14_0.jpg)
-
+![Image description](demos/dota1.5/1706_P1090_1_0.jpg)
+![Image description](demos/dota1.5/31_P0007_62_0.jpg)
+![Image description](demos/dota1.5/341_P0179_73_0.jpg)
+![Image description](demos/dota1.5/52_P0019_53_0.jpg)
+![Image description](demos/dota1.5/1720_P1095_18_0.jpg)
+![Image description](demos/dota1.5/1708_P1090_212_0.jpg)
+![Image description](demos/dota1.5/1716_P1091_1_0.jpg)
 Note: Although many documents claim to be Oriented Object Bounding Box detection, what they actually obtain are directionless quadrilaterals. However, our model achieves true directional object detection in its real sense.
+Additionally, we can support a hybrid model that simultaneously detects both rotating boxes and horizontal boxes, as some targets are centrally symmetrical and do not require rotating boxes.
