@@ -29,6 +29,8 @@ Turbo 6DPose Object Detection Demos
 ![Image description](demos/6dpose/Turbo6D4.png)
 ![Image description](demos/6dpose/Turbo6D5.png)
 ![Image description](demos/6dpose/Turbo6D6.png)
+![Image description](demos/6dpose/Turbo6D7.png)
+![Image description](demos/6dpose/Turbo6D8.png)
 Note: The common 6DPose can only estimate the pose with one degree of freedom rotation - the heading angle, and it requires the exterior orientation parameters of the camera. However, our IMT engine's Turbo 6DPose can genuinely estimate the target's three degrees of freedom rotational pose relative to the camera, without needing the camera's exterior orientation parameters. Therefore, it can be widely applied.
 
 Prize by IMT
