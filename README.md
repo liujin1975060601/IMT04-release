@@ -13,8 +13,6 @@ Based on our IMT engine, we developed a set of machine game-playing algorithm mo
 
 <video controls width="640" height="360">
     <source src="videos/9DPose.mp4" type="video/mp4">
-    <!-- 如果您还有其他格式的视频文件，可以在这里添加<source>标签 -->
-    Your browser does not support the video tag.
 </video>
 
 Rotated Object Detection Demos
