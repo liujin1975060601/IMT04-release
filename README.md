@@ -11,6 +11,12 @@ It is convenient for embedded porting. Based on the IMT framework, you can write
 
 Based on our IMT engine, we developed a set of machine game-playing algorithm models, continuously refining the model structure without needing retraining. In the 2022 ICGA competition, we won gold and silver medals in two events, and once again emerged as champions in the highest-level domestic machine game-playing competition, the "World Competitive Cup". 
 
+<video controls width="640" height="360">
+    <source src="videos/9DPose.mp4" type="video/mp4">
+    <!-- 如果您还有其他格式的视频文件，可以在这里添加<source>标签 -->
+    Your browser does not support the video tag.
+</video>
+
 Rotated Object Detection Demos
 ![Image description](demos/dota1.5/1706_P1090_1_0.jpg)
 ![Image description](demos/dota1.5/31_P0007_62_0.jpg)
